@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\RABİA\Source\Repos\FeedbackApps\bin\Release\net8.0\publish\</_PublishTargetUrl>
+    <History>True|2024-11-01T15:06:31.7011757Z;True|2024-11-01T14:47:38.4706657+03:00;True|2024-11-01T00:29:11.8635733+03:00;True|2024-11-01T00:27:06.8244617+03:00;True|2024-11-01T00:27:00.2483226+03:00;True|2024-11-01T00:14:21.2297566+03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
